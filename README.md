@@ -2,7 +2,7 @@
 ### Presented at the Society for Neuroscience Annual Meeting (2025) – San Diego, CA  
 All figures, analyses, and code in this repository were created by **Rvk Cardona**.
 
----
+Under the guidance of PhD candidate Dominic Garcia, this analysis was developed as part of an ongoing project investigating sequence learning and selective sensory filtering in mice using widefield calcium imaging.
 
 ## Poster  
 ![SFN Poster](SfN_Poster_2025_-_Rvk_Cardona.png)
@@ -15,7 +15,6 @@ This repository contains the full analysis pipeline used for my **2025 Society f
 Our central question:  
 **How does Fragile X Syndrome alter the way the brain processes and learns predictable sensory sequences?**
 
----
 ## Methods Summary  
 
 We trained head-fixed mice on an **air-puff sequence discrimination task** adapted from Gavornik & Bear.  
@@ -31,7 +30,7 @@ These manipulations allowed us to determine whether mice place value on specific
 ---
 
 # Repository Structure  
-Each folder contains its own README with detailed explanations on the script.  
+Each folder contains its own README with detailed explanations of the scripts.  
 
 # /behavioral_licking — Licking Behavior Across Sequences  
 
@@ -130,15 +129,6 @@ The results support the **hypofrontality** framework, suggesting reduced frontal
 
 ➡️ See the **/encoding** folder for imaging analysis and map alignment scripts.
 
----
-
-## Citation  
-
-If referencing this repository or poster, please cite:
-
-**Rvk Cardona (2025). Sequence learning driven by frontal cortex communication from sensory cortex. Society for Neuroscience Annual Meeting, San Diego, CA.**
-
----
 
 ## Contact  
 
