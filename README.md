@@ -30,9 +30,14 @@ These manipulations allowed us to determine whether mice place value on specific
 ---
 
 # Repository Structure  
-Each folder contains its own README with detailed explanations of the scripts.  
+- [/behavioral_licking](behavioral_licking/)  
+- [/glm](glm/)  
+- [/encoding](encoding/)  
 
-# /behavioral_licking — Licking Behavior Across Sequences  
+Each folder contains its own README with detailed explanations.  
+Below is a high-level overview of each analysis section.
+
+## [/behavioral_licking](behavioral_licking/) — Licking Behavior Across Sequences  
 
 ### What we asked  
 Do wild-type and FMR1 KO mice learn the standard sequence differently?  
@@ -54,11 +59,11 @@ Do they adjust their licking when the sequence is reversed or disrupted?
 
 These results show WT mice use **sequence information** to guide licking, while KO mice rely on a simple **first-element response**.
 
-➡️ See the **/behavioral_licking** folder for scripts and details.
+➡️ See the[/behavioral_licking](behavioral_licking/) folder for scripts and details.
 
 ---
 
-# /glm — Element Identity vs Position in Licking  
+# [/glm](glm/) — Element Identity vs Position in Licking  
 
 ### What we asked  
 Do mice use **element identity** or **position** to decide when to lick?  
@@ -88,11 +93,11 @@ We compared these models across genotypes.
 **Conclusion:**  
 WT mice rely on both *what* the stimulus is and *where* it occurs, whereas KO mice do not.
 
-➡️ See the **/glm** folder for code and model comparison.
+➡️ See the [/glm](glm/) folder for code and model comparison.
 
 ---
 
-# /encoding — Cortical Activity During Learning  
+# [/encoding](encoding/)  — Cortical Activity During Learning  
 
 ### What we asked  
 What neural mechanisms explain the behavioral differences?  
@@ -127,7 +132,7 @@ Our data show:
 **Conclusion:**  
 The results support the **hypofrontality** framework, suggesting reduced frontal engagement underlies learning deficits in Fragile X mice.
 
-➡️ See the **/encoding** folder for imaging analysis and map alignment scripts.
+➡️ See the [/encoding](encoding/) folder for imaging analysis and map alignment scripts.
 
 
 ## Contact  
